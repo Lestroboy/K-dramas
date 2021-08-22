@@ -1,2 +1,47 @@
-# K-dramas
-Is all about k-drama selection about them you know. 
+<!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+        <TITLE>K-DRAMA LOVE</TITLE>
+    </HEAD>
+    <BODY BGCOLOR=PLUM TEXT=LAVENDER>
+    <H1 ALIGN=CENTER>K-DRAMAS IS LOVE</H1>
+    <FORM>
+    <PRE>
+    <b>YOUR CUTE NAME:</b> <INPUT TYPE=TEXT NAME=A1 MAXLENGTH=20>
+    
+    <b>CITY'S IN KOREA:</b> <TEXTAREA COLS=16 ROWS=4 PLACEHOLDER="CITY NAME YOU WANT TO VISIT" REQUIRED NAME=A2></TEXTAREA>
+    
+    <b>ACTOR/ACTRESS:</b> <INPUT TYPE=TEXT NAME=A3 MAXLENGTH=20 PLACEHOLDER="YOUR'S FAVOURITE'S KOREAN" REQUIRED NAME></INPUT>
+    
+    <b>K-DRAMA:</b> <SELECT NAME= A4 SIZE= 10 MULTIPLE>
+             <OPTION>MOVE TO HEAVEN</OPTION>
+             <OPTION>HOSPITAL PLAYLIST</OPTION>
+             <OPTION>FLOWER OF EVIL</OPTION>
+             <OPTION>PINOCCHIO</OPTION>
+             <OPTION>PRISION PLAYBOOK</OPTION>
+             <OPTION>IT'S OKAY TO KOT BE OKAY</OPTION>
+             <OPTION>I AM NOT A ROBOT</OPTION>
+             <OPTION>DR.ROMANTIC</OPTION>
+             <OPTION>MY GIRLFRIEND IS AN ALIEN</OPTION>
+             <OPTION>SHOULDER ON MY HEAD</OPTION>
+             </SELECT>
+             
+    <b>WHAT YOU WANT'S:</b> <SELECT NAME=A5>
+                     <OPTION>ROMANCE</OPTION>
+                     <OPTION>EMOTIONAL</OPTION>
+                     <OPTION>CUTE</OPTION>
+                     <OPTION>ONLY FUN</OPTION>
+                     <OPTION>MYSTERY</OPTION>
+                     <OPTION>ALL OF IT</OPTION>
+                     </SELECT>
+    <b>WILL YOU FOLLOW:</b> <INPUT TYPE=CHECKBOX NAME=A6              VALUE= YES!> YES!
+                     <INPUT TYPE=CHECKBOX NAME=A6 VALUE= NO DISABLE > NO
+                     <INPUT TYPE=CHECKBOX NAME=A6 VALUE= THINKING> THINKING
+                     
+                    <INPUT TYPE=SUBMIT VALUE="CONFIRM">
+                    <INPUT TYPE=RESET VALUE=CLEAR>
+                
+    </PRE>
+    </FORM>
+    </BODY>
+</HTML>
